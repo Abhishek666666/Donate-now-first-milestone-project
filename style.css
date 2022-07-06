@@ -139,6 +139,7 @@ placeholder {
 /* <!-- our donate plan section --> */
 #Our-donate-plan {
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .donate-plan {
@@ -189,4 +190,51 @@ p {
 
 #bg2 {
     background-color: rgb(238, 178, 178);
+}
+
+/* <!-- how to contribute part --> */
+.htc {
+    margin-top: 200px;
+    padding-top: 200px;
+
+
+}
+
+#hd1 {
+    font-weight: bold;
+
+    font-size: 2rem;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+
+}
+
+.half-width img {
+    /* width: 120%; */
+    height: 120%;
+    width: 120%;
+}
+
+.second part {
+    padding-left: 10px;
+    margin-left: 25px;
+}
+
+
+
+.flex-50 {
+    flex-basis: 50%;
+}
+
+.hello {
+    padding-left: 100px;
+}
+
+#btn {
+    margin-top: 120px;
 }
