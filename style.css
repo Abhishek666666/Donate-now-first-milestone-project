@@ -135,3 +135,57 @@ placeholder {
 .button {
     padding: 30px;
 }
+
+/* <!-- our donate plan section --> */
+#Our-donate-plan {
+    padding-top: 100px;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    font-size: 1.5rem;
+    padding-bottom: 30px;
+}
+
+/* card content */
+
+.iconbox-content {
+    height: 350px;
+    width: 350px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+
+
+
+}
+
+.iconbox .iconbox-content {
+    float: left;
+    padding-left: 30px;
+    justify-content: center;
+    margin-left: 60px;
+
+    margin-top: 30px;
+}
+
+.iconbox-content img,
+h3,
+p {
+    padding: 15px;
+}
+
+#bg {
+    background-color: rgb(109, 237, 169);
+}
+
+#bg1 {
+    background-color: rgb(102, 231, 102);
+}
+
+#bg2 {
+    background-color: rgb(238, 178, 178);
+}
