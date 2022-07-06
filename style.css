@@ -235,6 +235,87 @@ p {
     padding-left: 100px;
 }
 
+.hello h1 {
+    font-size: 40px;
+}
+
 #btn {
     margin-top: 120px;
+}
+
+/* <!-- get my update part --> */
+.update {
+    display: block;
+    padding-top: 500px;
+}
+
+.update h1 p {
+    font-size: 2.5rem;
+}
+
+.middle {
+    font-size: 60px;
+    padding-left: 458px;
+    padding-right: 130px;
+    font-weight: 50;
+    padding-bottom: 20px;
+}
+
+.middle-1 {
+    font-size: 20px;
+    padding-left: 350px;
+    padding-right: 130px;
+    font-weight: 50;
+    padding-bottom: 20px;
+}
+
+.box:hover {
+    background-color: red;
+    color: aliceblue;
+}
+
+.box-1 {
+    margin-top: 50px;
+    margin-left: 300px;
+    height: 300px;
+    width: 850px;
+    background-color: rgb(28, 26, 26);
+    border-radius: 8px;
+
+
+}
+
+.subscribe {
+    margin-left: 165px;
+    margin-top: 91px;
+}
+
+#sub {
+    background-color: red;
+    margin-left: 320px;
+    border-radius: 8px;
+    width: 200px;
+    color: white;
+}
+
+/* fotter part start */
+footer {
+    background-color: rgb(0, 0, 0);
+    height: 171px;
+    text-align: center;
+
+}
+
+.footer-div h1 {
+    font-family: 'Brush Script MT', cursive;
+    ;
+    margin-top: 30px;
+    padding-top: 50PX;
+    color: red;
+    text-align: center center;
+}
+
+.footer-div P {
+    color: WHITE;
+
 }
