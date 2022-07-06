@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: auto 0;
+}
+
+/* header with background and picture section */
+
+header {
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center center;
+    height: 80vh;
+    background-image: url(images/donation5.jpg);
+
+}
+
+.text-section {
+    /* width: 50%; */
+    margin: auto 0;
+    text-align: center;
+    /* position: static; */
+    padding-left: 100px;
+    padding-right: 100px;
+
+    color: rgb(251, 248, 248);
+    padding-top: 10%;
+    font-size: 1.5rem;
+    line-height: 0.55in;
+
+
+
+}
+
+.DOnate-now-button {
+
+    text-decoration: none;
+    color: white;
+    margin-top: 25px;
+    padding: 10px 20px;
+    background-color: red;
+    border-radius: 15px;
+
+}
+
+/* Donate today section */
+.Donate,
+Donate Today {
+    padding-top: 50px;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 1.5inch;
+}
+
+#today {
+    font-size: 50px;
+    padding-bottom: 60px;
+}
+
+#pid {
+    font-size: 20px;
+    padding-left: 130px;
+    padding-right: 130px;
+    font-weight: 50;
+    padding-bottom: 20px;
+}
+
+.amount-tk {
+    height: 300;
+    width: 300;
+    text-align: center center;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.box {
+    height: 130px;
+    width: 160px;
+    background-color: antiquewhite;
+    /* border: 0.5px solid; */
+    text-align: center;
+    padding-top: 40px;
+    margin: 20px;
+
+
+
+}
+
+.amount-tk box {
+    justify-content: center;
+}
+
+.other-amount {
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+
+    border-bottom: 1px solid rgb(192, 185, 185);
+}
+
+input {
+    width: 60%;
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+
+input,
+placeholder {
+    text-align: center;
+    font-size: 30px;
+}
+
+#enter your amount {
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+.button {
+    padding: 30px;
+}
